@@ -18,9 +18,7 @@
 - DB: MSSQL
 - DCC tools: 3DsMax, 3D Substance Painter
 
-
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpark142&layout=compact&theme=onedark)
 
 
 
