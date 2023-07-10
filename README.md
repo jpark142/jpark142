@@ -4,7 +4,7 @@
 #### Research/Software Engineer at EzRobotics
 
 ### 👨‍🎓 Education
-#### Bachelor of Game Engineering TECH UNIVERSITY OF KOREA, Feb 2023
+#### Bachelor of GAME ENGINEERING, TECH UNIVERSITY OF KOREA, Feb 2023
 
 ### 🔥 I'm interested in...
 - Game Programming
