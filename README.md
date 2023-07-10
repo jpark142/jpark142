@@ -1,7 +1,7 @@
 ### Hi, I'm Jooyong Park. Welcome to my page!😀
 ------------------------------
 ### 👨‍💻 I’m currently working on...
-#### Research/Software Engineer at EzRobotics
+#### Research/Software Engineer
 
 ### 👨‍🎓 Education
 #### Bachelor of GAME ENGINEERING, TECH UNIVERSITY OF KOREA, Feb 2023
