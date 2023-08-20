@@ -24,6 +24,12 @@
 - DCC tools: 3DsMax, 3D Substance Painter
 - etc: Git, SVN, Jira
 
+### 📊 Stats
+![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpark142&show_icons=true&theme=highcontrast)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpark142&layout=compact&theme=tokyonight)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dra90n)](https://solved.ac/dra90n)
+
 
 
 
