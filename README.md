@@ -1,7 +1,7 @@
 ### Hi, I'm Jooyong Park. Welcome to my page!😀
 ------------------------------
 ### 👨‍💻 I’m currently working on...
-#### Research/Software Engineer
+#### Software Engineer
 
 ### 👨‍🎓 Education
 #### Bachelor of GAME ENGINEERING, TECH UNIVERSITY OF KOREA, Feb 2023
@@ -12,7 +12,7 @@
 - Unreal, Unity
 
 ### 🌱 I’m currently learning...
-- DirectX12
+- DirectX, UE5
 - GameMath
 
 ### 🏹 Skills
